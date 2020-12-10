@@ -1,4 +1,4 @@
-package stack;
+package queue;
 
 /**
  * @author cropdata-ujwal
